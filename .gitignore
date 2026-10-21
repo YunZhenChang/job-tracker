@@ -1,0 +1,11 @@
+# 你的真實投遞紀錄，不要上傳
+jobs.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit 設定中可能含金鑰
+.streamlit/secrets.toml
